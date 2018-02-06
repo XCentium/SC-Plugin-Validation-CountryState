@@ -20,8 +20,7 @@ How to Install
 
 1. Copy it to your Sitecore Commerce Engine Solution and add it as a project 
 
-2. Add it as a dependency to your Sitecore Commerce Engine Project.Json file by adding the line below
-    "Plugin.Xcentium.Validation.DisableCountryStateZip": "1.0.2301"
+2. Add it as a dependency to your Sitecore Commerce Engine Project
 
 3. You are ready to start using it. 
 
